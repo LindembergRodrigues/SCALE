@@ -1,5 +1,6 @@
 # SCALE
-Exercícios de admissão
+
+## Exercícios de admissão :question:
 
 Para a correta execução as bibliotecas requests, json, PIL e io devem esta disponíveis na máquina.
 
